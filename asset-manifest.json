@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/SantoshK96/Connect-4/tree/master/connect4/static/js/main.2983a68a.chunk.js",
+    "main.js.map": "/SantoshK96/Connect-4/tree/master/connect4/static/js/main.2983a68a.chunk.js.map",
+    "runtime-main.js": "/SantoshK96/Connect-4/tree/master/connect4/static/js/runtime-main.a128c72c.js",
+    "runtime-main.js.map": "/SantoshK96/Connect-4/tree/master/connect4/static/js/runtime-main.a128c72c.js.map",
+    "static/js/2.eaa53a4c.chunk.js": "/SantoshK96/Connect-4/tree/master/connect4/static/js/2.eaa53a4c.chunk.js",
+    "static/js/2.eaa53a4c.chunk.js.map": "/SantoshK96/Connect-4/tree/master/connect4/static/js/2.eaa53a4c.chunk.js.map",
+    "index.html": "/SantoshK96/Connect-4/tree/master/connect4/index.html",
+    "precache-manifest.6d6f9246c8ed154e72f0a33bf3392c61.js": "/SantoshK96/Connect-4/tree/master/connect4/precache-manifest.6d6f9246c8ed154e72f0a33bf3392c61.js",
+    "service-worker.js": "/SantoshK96/Connect-4/tree/master/connect4/service-worker.js",
+    "static/js/2.eaa53a4c.chunk.js.LICENSE.txt": "/SantoshK96/Connect-4/tree/master/connect4/static/js/2.eaa53a4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a128c72c.js",
+    "static/js/2.eaa53a4c.chunk.js",
+    "static/js/main.2983a68a.chunk.js"
+  ]
+}
